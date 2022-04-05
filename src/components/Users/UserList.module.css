@@ -1,7 +1,10 @@
 .user {
   margin: 2rem auto;
   width: 90%;
+  padding: 1rem;
   max-width: 40rem;
+  border: 10px groove rgb(229, 255, 0);
+  margin: 0.5rem 0;
 }
 
 .users ul {
@@ -10,7 +13,8 @@
 }
 
 .user li {
-  border: 1px solid #ccc;
+  border: 10px groove rgb(0, 0, 0);
   margin: 0.5rem 0;
   padding: 0.5rem;
+  display: block;
 }
